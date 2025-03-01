@@ -1,8 +1,8 @@
-[
-  {"id": "crazy", "name": "Безумец", "description": "Победи 1000 мемов", "action": "KillMeme", "args": [], "max_count": 1000, "reward_type": "aura", "reward": 5000},
-  
+
   {"id": "1", "name": "Уничтожитель", "description": "Уничтожьте 20 мемов", "action": "KillMeme", "args": [], "max_count": 20, "reward_type": "aura", "reward": 50},
   {"id": "2", "name": "Активный игрок", "description": "Проведи 10 минут в игре", "action": "PlayFor", "args": [], "max_count": 10, "reward_type": "aura", "reward": 120},
   {"id": "3", "name": "Бегун", "description": "Пробеги 1000 метров", "action": "RunDistance", "args": [], "max_count": 1000, "reward_type": "aura", "reward": 300},
-  {"id": "4", "name": "Тест", "description": "Пробеги 10 метров", "action": "RunDistance", "args": [], "max_count": 10, "reward_type": "aura", "reward": 3}
+  {"id": "4", "name": "Тест", "description": "Пробеги 10 метров", "action": "RunDistance", "args": [], "max_count": 10, "reward_type": "aura", "reward": 3},
+
+  {"id": "crazy", "name": "Безумец", "description": "Победи 1000 мемов", "action": "KillMeme", "args": [], "max_count": 1000, "reward_type": "aura", "reward": 5000}
 ]
