@@ -5,5 +5,5 @@
   {"id": "5", "name": "Хилка", "description": "Используй 50 аптечек", "action": "Heal", "args": [], "max_count": 50, "reward_type": "aura", "reward": 300},
 
   {"id": "crazy", "name": "Безумец", "description": "Победи 1000 мемов", "action": "KillMeme", "args": [], "max_count": 1000, "reward_type": "aura", "reward": 5000},
-  {"id": "crazy", "name": "крутой чел", "description": "Собери 500 аптечек", "action": "Heal", "args": [], "max_count": 500, "reward_type": "aura", "reward": 3000}
+  {"id": "crazy_2", "name": "крутой чел", "description": "Собери 500 аптечек", "action": "Heal", "args": [], "max_count": 500, "reward_type": "aura", "reward": 3000}
 ]
