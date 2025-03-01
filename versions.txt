@@ -1,1 +1,1 @@
-{"versions": ["24.02.2025 beta", "28.02.2025 beta"], "timeout": 90}
+{"versions": ["28.02.2025 beta"], "timeout": 80}
