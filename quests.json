@@ -1,7 +1,7 @@
 [
   {"id": "10", "name": "Сигмабой", "description": "Победи 50 мемов", "action": "KillMeme", "args": [], "max_count": 50, "reward_type": "aura", "reward": 200},
   {"id": "11", "name": "Норм", "description": "Проведи 10 минут в игре", "action": "PlayFor", "args": [], "max_count": 10, "reward_type": "aura", "reward": 600},
-  {"id": "12", "name": "Я не знаю как назвать квест", "description": "Пробеги 500 метров", "action": "RunDistance", "args": [], "max_count": 3000, "reward_type": "aura", "reward": 500},
+  {"id": "12", "name": "Я не знаю как назвать квест", "description": "Пробеги 500 метров", "action": "RunDistance", "args": [], "max_count": 500, "reward_type": "aura", "reward": 500},
   {"id": "13", "name": "Хилка 42", "description": "Используй 10 аптечек", "action": "Heal", "args": [], "max_count": 10, "reward_type": "aura", "reward": 200},
 
   {"id": "crazy", "name": "Безумец", "description": "Победи 1000 мемов", "action": "KillMeme", "args": [], "max_count": 1000, "reward_type": "aura", "reward": 5000},
