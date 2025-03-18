@@ -1,1 +1,1 @@
-{"versions": ["15.03.2025"], "timeout": 60}
+{"versions": ["15.03.2025"], "timeout": 120}
